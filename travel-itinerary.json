@@ -1,0 +1,57 @@
+{
+    "tripName": "Jada's Yearly Travels",
+    "traveler": {
+        "name": "Jada Hundley",
+        "contact": {
+            "email": "jadahundley@gmail.com",
+            "phone":"314-333-3333"
+        }
+    },
+    "destinations": [
+        {
+            "location": "Bahamas",
+            "arrivalDate": "2026-05-09",
+            "departureDate": "2026-05-15",
+            "activities": [
+                {
+                    "title": "hike",
+                    "time": "10:00 AM"
+                },
+                {
+                    "title": "dinner on the beach",
+                    "time": "5:00PM"
+                }
+            ]
+        },
+        {
+            "location": "Hawaii",
+            "arrivalDate": "2026-07-12",
+            "departureDate": "2026-07-18",
+            "activities": [
+                {
+                    "title": "scuba-diving",
+                    "time":"10:00 AM"
+                },
+                {
+                    "title": "waikiki luau",
+                    "time":"5:00PM"
+                }
+            ]
+        },
+        {
+            "location": "New York",
+            "arrivalDate": "2026-11-07",
+            "departureDate": "2026-11-13",
+            "activities": [
+                {
+                    "title": "statue of liberty tour",
+                    "time": "9:00 AM"
+                },
+                {
+                    "title": "food tour",
+                    "time": "1:00PM"
+                }
+            ]
+        }
+    ]
+}
