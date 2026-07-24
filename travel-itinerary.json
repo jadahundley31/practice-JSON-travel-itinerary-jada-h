@@ -51,7 +51,10 @@
                     "title": "food tour",
                     "time": "1:00PM"
 
-                            },
+                }
+            ]
+        
+        },
         {
             "location": "Rome",
             "arrivalDate": "2026-08-02",
@@ -79,6 +82,24 @@
                     "time": "9:00 AM"
                 }
             ]
+        },
+        {
+            "location": "Barcelona",
+            "arrivalDate": "2026-06-18",
+            "departureDate": "2026-06-21",
+            "transportation": {
+                "mode": "Train",
+                "cost": 85.00
+            },
+            "activities": [
+                {
+                "title": "Visit La Sagrada Familia",
+                "time": "10:00 AM"
+                },
+                {
+                "title": "Tapas Food Tour",
+                "time": "6:00 PM"
+            }]
         }
     ]
 }
