@@ -50,6 +50,22 @@
                 {
                     "title": "food tour",
                     "time": "1:00PM"
+
+                            },
+        {
+            "location": "Rome",
+            "arrivalDate": "2026-08-02",
+            "departureDate": "2026-08-20",
+            "activities": [
+                {
+                    "title": "Tour the Colosseum",
+                    "time": "2:00 PM"
+                },
+                {
+                    "title": "relax at the beach",
+                    "time": "7:00 PM"
+
+                    
                 }
             ]
         },
