@@ -52,6 +52,17 @@
                     "time": "1:00PM"
                 }
             ]
+        },
+        {
+            "location": "Atlanta",
+            "arrivalDate": "2026-11-13",
+            "departureDate": "2026-11-14",
+            "activities": [
+                {
+                    "title": "Georgia Aquarium",
+                    "time": "9:00 AM"
+                }
+            ]
         }
     ]
 }
